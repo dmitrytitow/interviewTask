@@ -1,0 +1,22 @@
+{
+  "name": "conundrum-typescript-interview",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "jest --watch"
+  },
+  "dependencies": {
+    "parcel-bundler": "^1.6.1"
+  },
+  "devDependencies": {
+    "@babel/core": "7.2.0",
+    "@types/jest": "^29.5.12",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.1.2",
+    "ts-node": "^10.9.2"
+  },
+  "resolutions": {
+    "@babel/preset-env": "7.13.8"
+  },
+  "keywords": []
+}
